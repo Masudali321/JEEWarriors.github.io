@@ -164,13 +164,13 @@ body{
   height: 100%;
   float: left;
   font-size: 18px;
-  background-color: #000ff0;
+  background-color: Transparent;
   text-align: right;
   color: #000ff0;
 }
 #chat_input_send.enabled{
   color: #000ff0;
-  background-color: #000ff0;
+  background-color: transparent;
   cursor: pointer;
 
 }
