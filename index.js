@@ -3,15 +3,14 @@
 window.onload = function() {
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyBfkFhzmKk_29SpzEJljuQe9xPROvAryng",
-    authDomain: "gang-of-class-7.firebaseapp.com",
-    databaseURL: "https://gang-of-class-7-default-rtdb.firebaseio.com",
-    projectId: "gang-of-class-7",
-    storageBucket: "gang-of-class-7.appspot.com",
-    messagingSenderId: "910467879160",
-    appId: "1:910467879160:web:739aea0fef96cb45acab0d",
-    measurementId: "G-V90JTFR4WE"
-  };
+  apiKey: "AIzaSyCRN2RuY9geJUItkCRkMjTARafctYSwctI",
+  authDomain: "masudmessenger.firebaseapp.com",
+  projectId: "masudmessenger",
+  storageBucket: "masudmessenger.appspot.com",
+  messagingSenderId: "731857906005",
+  appId: "1:731857906005:web:e7a84d2a235981dd6be7dc",
+  measurementId: "G-VJCP83J0GY"
+};
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   // This is very IMPORTANT!! We're going to use "db" a lot.
