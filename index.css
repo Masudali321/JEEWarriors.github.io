@@ -155,7 +155,7 @@ body{
   width: 95%;
   height: 100%;
   float: left;
-  background-color: Transparent;
+  background-color: #1D3354;
   color: #1D3354;
   font-size: 15px;
 }
@@ -164,7 +164,7 @@ body{
   height: 100%;
   float: left;
   font-size: 18px;
-  background-color: Transparent;
+  background-color: #000000;
   text-align: right;
   color: #000000;
 }
